@@ -1,0 +1,61 @@
+
+ul{
+    background-color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+}
+
+li a{
+    display: block;
+    color: white;
+    padding: 30px;
+    text-decoration: none;
+}
+
+li:hover{
+background-color: white;
+}
+
+li a:hover{
+color: blue;
+}
+
+body{
+    background-color: rgb(240, 247, 247);
+    margin: auto;
+}
+
+h1{
+    color: rgb(255, 0, 251);
+    font-size: 60px;
+    text-align: center;
+}
+
+footer{
+    background-color: blue;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    padding: 30px;
+}
+
+.bio{
+    float: left;
+}
+
+p {
+    display: inline-flex;
+    text-align: justify;
+    padding: 30px;
+    margin-right: 40%;
+  }
+  
+  img {
+    height: 10%;
+    width: 20%;
+  }
+  

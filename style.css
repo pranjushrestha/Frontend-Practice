@@ -1,0 +1,65 @@
+body{
+    background-color:pink;
+    margin: auto;
+}
+
+h1{
+    color: red;
+    font-size: 50px;
+    font-family: 'Tilt Neon', cursive;
+}
+
+p{
+    color: blue;
+    font-weight:bolder;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: darkblue;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+
+}
+
+li a{
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li:hover{
+    background-color: white;
+}
+
+li a:hover{
+    color: darkblue;
+}
+
+footer{
+    background-color: darkblue;
+    color: white;
+    height: 50px;
+    text-align:center;
+    padding-top: 30px;
+}
+
+a{
+   text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: yellow;
+}
+
+hr{
+    margin-bottom: -10px;
+}
